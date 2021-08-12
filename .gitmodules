@@ -1,0 +1,3 @@
+[submodule "nginx/nginx-development-guide"]
+	path = nginx/nginx-development-guide
+	url = https://github.com/baishancloud/nginx-development-guide
