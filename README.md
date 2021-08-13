@@ -18,6 +18,14 @@ store ebook
 仓库 [nginx-dev-examples](http://hg.nginx.org/nginx-dev-examples)提供了nginx模块示例。
 
 
+### tools 
+
+#### scientific_network
+
+ * [scientific_network_summary](https://github.com/crifan/scientific_network_summary)
+
+
+
 ## [zhangbc的书库](https://github.com/zhangbc/eBooks)
 
 - 主要以 `IT` 领域经典书籍收藏，以备不时之需，欢迎各位补充，请留言。
@@ -434,7 +442,7 @@ store ebook
 
 
 
-
+## [imarvinle的书库](https://github.com/imarvinle/awesome-cs-books)
 
 
 
