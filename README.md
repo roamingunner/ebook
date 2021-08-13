@@ -26,9 +26,18 @@ store ebook
 
 ## [imarvinle的书库](https://github.com/imarvinle/awesome-cs-books)
 
+IT系列书库
+
+
+
 ## [zhangbc的书库](https://github.com/zhangbc/eBooks)
 
+IT系列书库
 
+
+## [justjavac的书库](https://github.com/justjavac/free-programming-books-zh_CN)
+
+IT系列书库
 
 
 
