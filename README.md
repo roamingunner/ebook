@@ -19,9 +19,9 @@ store ebook
 
 ### tools 
 
-#### scientific_network
-
- * [scientific_network_summary](https://github.com/crifan/scientific_network_summary)
+ * [scientific_network_summary](https://github.com/crifan/scientific_network_summary) 
+ * [在线工具箱](https://tool.lu/) 程序员日常工具。包括json/xml/sql，正则表达式,在线编译器，二进制转换，base64编码....
+ * [any-rule](https://github.com/any86/any-rule) 正则表达式集合，可以匹配生活中的信息：车牌、车次、手机号....
 
 
 ## [imarvinle的书库](https://github.com/imarvinle/awesome-cs-books)
