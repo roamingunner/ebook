@@ -40,6 +40,6 @@ IT系列书库
 IT系列书库
 
 
-## [tangtangcoding的书库]https://github.com/tangtangcoding/C-C-
+## [tangtangcoding的书库](https://github.com/tangtangcoding/C-C-)
 
 c/c++系列电子书
